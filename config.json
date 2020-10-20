@@ -9,13 +9,13 @@
     "gh_url": "https://github.com/codermind",
     "blog_name": "Coder Mind",
     "tag_line": "Heaven for Coders",
-    "gmail-user":"zeromind010@gmail.com",
-    "gmail-password":"Deepak@1998",
+    "gmail-user":"youremail.com",
+    "gmail-password":"your password",
     "about_text": "Hi my name is Deepak patel and I create programming blog and I am a blogger",
     "no_of_posts": 5,
     "login_image":"login.png",
     "admin_user":"deepak",
-    "admin_password": "deepak321",
+    "admin_password": "adminpassword",
     "upload_location":"C:\\Users\\deepa\\PycharmProjects\\webdevelopment\\static"
   }
 }
